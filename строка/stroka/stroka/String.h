@@ -27,4 +27,4 @@ public:
 	friend ostream & operator <<(ostream & out, String & s1);
 	char & operator [](int num);
 };
-
+//helloooooooooooooooooooooooooooo
