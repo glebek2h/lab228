@@ -156,5 +156,5 @@ String & operator ! (String &s)
 		s.s[i] = l.s[i];
 	return s;
 }
-
+//приветик
 
