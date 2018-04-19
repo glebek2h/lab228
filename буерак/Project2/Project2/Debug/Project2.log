@@ -1,0 +1,7 @@
+﻿  String.cpp
+\\mac\home\desktop\yп\!буерак\project2\project2\string.cpp(169): warning C4715: func: значение возвращается не при всех путях выполнения
+\\mac\home\desktop\yп\!буерак\project2\project2\string.cpp(192): warning C4172: возвращение адреса локальной или временной переменной : first
+\\mac\home\desktop\yп\!буерак\project2\project2\string.cpp(202): warning C4172: возвращение адреса локальной или временной переменной : res
+\\mac\home\desktop\yп\!буерак\project2\project2\string.cpp(220): warning C4172: возвращение адреса локальной или временной переменной : buf
+\\mac\home\desktop\yп\!буерак\project2\project2\string.cpp(239): warning C4172: возвращение адреса локальной или временной переменной : buf
+  Project2.vcxproj -> \\Mac\Home\Desktop\YП\!буерак\Project2\Debug\Project2.exe
