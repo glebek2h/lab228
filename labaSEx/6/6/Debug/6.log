@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\_______________flashka\____лабы\labasex\6\6\main.cpp(25): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+d:\_______________flashka\____лабы\labasex\6\6\main.cpp(17): warning C4172: возвращение адреса локальной или временной переменной : count
+  6.vcxproj -> D:\_______________flashka\____Лабы\labaSEx\6\Debug\6.exe
